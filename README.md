@@ -1,2 +1,2 @@
 # S-nior-Iny-
-Site Bíblico 
+blog oficial de programação
